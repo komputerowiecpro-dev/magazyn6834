@@ -16,7 +16,7 @@ class InventoryManager:
 
     def get_products(self):
         return self.products
-      mport streamlit as st
+      import streamlit as st
 from inventory_manager import InventoryManager
 
 # Inicjalizacja menedżera magazynu w sesji Streamlit
